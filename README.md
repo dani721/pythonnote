@@ -1,6 +1,6 @@
 # pythonnote
 
-Pandas:  
+### Pandas:  
 - A fast and efficient DataFrame object for data manipulation with integrated indexing;  
 - Tools for reading and writing data between in-memory data structures and different formats: CSV and text files, Microsoft Excel, SQL databases, and the fast HDF5 format;  
 - Intelligent data alignment and integrated handling of missing data: gain automatic label-based alignment in computations and easily manipulate messy data into an orderly form;  
@@ -15,11 +15,14 @@ Pandas:
 - Python with pandas is in use in a wide variety of academic and commercial domains, including Finance, Neuroscience, Economics, Statistics, Advertising, Web Analytics, and more.  
 
 
-numpy:  
+### numpy:  
 - a powerful N-dimensional array object  
 - sophisticated (broadcasting) functions  
 - tools for integrating C/C++ and Fortran code  
 - useful linear algebra, Fourier transform, and random number capabilities  
 
 
-[matplotlib](https://matplotlib.org/)
+### [matplotlib](https://matplotlib.org/)  
+![bar_chart](https://matplotlib.org/_images/sphx_glr_barchart_001.png)
+
+### [sklearn](https://scikit-learn.org/stable/)
