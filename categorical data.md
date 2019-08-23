@@ -9,4 +9,6 @@ X[:,0] = labelendcoder_X.fit_transform(X[:,0]) // we are going to apply this met
 //for fix problems, we need dummy variable  
 from sklearn.preprocessing import LabelEncoder,OnehotEncoder  
 onehotencoder = OneHotEncoder(categoricl_features = [0])
-X= onehotencoder.fit_transform(x)
+X= onehotencoder.fit_transform(x).toarray()
+labelencoder_y = LableEncoder()
+y = labelencoder_y.fit_transform(y)
