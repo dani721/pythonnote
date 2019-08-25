@@ -1,6 +1,6 @@
 # Machine Learning A-Z
-- [missing value](./missing_value.md)  
+- [missing value](https://github.com/dani721/pythonnote/blob/master/udemy/missing%20value.md)  
 
-- [feature scaling](./feature_scaling.md)  
+- [feature scaling](./feature%20scaling.md)  
 
-- [categorical data](./categorical_data.md)
+- [categorical data](./categorical%20data.md)
