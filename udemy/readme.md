@@ -1,6 +1,6 @@
 # Machine Learning A-Z
-- [missing value](docs/missing_value.md)  
+- [missing value](./missingvalue.md)  
 
-- [feature scaling](docs/feature_scaling.md)  
+- [feature scaling](./featurescaling.md)  
 
-- [categorical data](docs/categorical_data.md)
+- [categorical data](./categoricaldata.md)
